@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+h2,h6,p{
+	text-align: center;
+}
+
+.card {
+	border-radius: none;
+}
